@@ -1,0 +1,7 @@
+May 12, 2022, 10:50:30:    File not found: e:\sm18-jigsaw-package-1.2\sm18\systems\abc of supermemo 18\elements\19\200.HTM (18.05, Oct 29, 2020)
+May 12, 2022, 10:53:28:    The component does not exist .. Operation: Text verification .. Component #1 .. Component number: 0 (18.05, Oct 29, 2020)
+May 12, 2022, 11:11:13:    The component does not exist .. Operation: Text verification .. Component #1 .. Component number: 0 (18.05, Oct 29, 2020)
+May 12, 2022, 11:14:54:    The component does not exist .. Operation: Text verification .. Component #1 .. Component number: 0 (18.05, Oct 29, 2020)
+May 12, 2022, 11:17:44:    Cannot edit stylesheet .. Access violation at address 00000000 in module 'sm18.exe'. Read of address 00000000 (18.05, Oct 29, 2020)
+May 12, 2022, 11:29:03:    Missing element in the repetition schedule on 5/12/2022 .. Not found: Topic #136: 公式导入注意事项 ..  .. IMPORTANT! To prevent data loss do the following: 1. Back up your collection (e.g. with Ctrl+Shift+C) 2. Run File : Repair collection (Ctrl+F12) (18.05, Oct 29, 2020)
+May 12, 2022, 11:29:16:    Missing element in the repetition schedule on 5/12/2022 .. Not found: Topic #131: 公式导入注意事项 ..  .. IMPORTANT! To prevent data loss do the following: 1. Back up your collection (e.g. with Ctrl+Shift+C) 2. Run File : Repair collection (Ctrl+F12) (18.05, Oct 29, 2020)

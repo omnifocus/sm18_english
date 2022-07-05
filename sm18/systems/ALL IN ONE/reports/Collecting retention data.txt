@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: e:\sm18-jigsaw-package-1.2\sm18\systems\all in one
+   Date: Thursday, May 12, 2022, 10:49:01 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Retention data errors can be ignored
+
+Process completed at 10:49:01 AM in 00:00:00 sec (Thursday, May 12, 2022)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________

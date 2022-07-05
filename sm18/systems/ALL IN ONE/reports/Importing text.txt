@@ -1,0 +1,16 @@
+SuperMemo Report
+   Activity: Importing from e:\supermemo-backup\sm18\systems\free learning\temp\transfer.txt
+   Collection: e:\sm18-jigsaw-package-1.2\sm18\systems\all in one
+   Date: Thursday, May 12, 2022, 11:37:18 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Collecting elements
+Warning! Modifying repetition history for non-memorized element:
+Topic #118: [3] Audio“Ù∆µ÷∆ø® (folder)
+Creating components
+
+Process completed at 11:37:19 AM in 00:00:00 sec (Thursday, May 12, 2022)
+
+NO ERRORS (Importing from e:\supermemo-backup\sm18\systems\free learning\temp\transfer.txt)
+
+____________________________________________________________
